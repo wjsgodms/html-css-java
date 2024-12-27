@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+html{
+    background-color: rgb(29, 35, 54);
+    
+}
+
+body{
+    width: 640px;
+    margin: auto;
+    color: azure;
+}
+h1{
+    font-size: 48px;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+p{
+    font-size: 17px;
+}
